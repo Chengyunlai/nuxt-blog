@@ -2,6 +2,9 @@
 import { formattedDate } from '@/utils'
 
 const props = defineProps(['article'])
+useHead({
+  title: '文章列表'
+})
 </script>
 
 <template>

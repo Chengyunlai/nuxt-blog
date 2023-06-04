@@ -1,4 +1,7 @@
 <script setup lang="ts">
+useHead({
+  title: '搜索'
+})
 import { useDebounceFn } from '@vueuse/core'
 
 const searchValue = ref('')

@@ -14,7 +14,9 @@
     "@iconify-json/icon-park-outline": "^1.1.11",
     "@iconify-json/simple-icons": "^1.1.52",
     "@unocss/reset": "^0.51.12",
-    "date-fns": "^2.30.0"
+    "date-fns": "^2.30.0",
+    "marked": "^5.0.4",
+    "remark-parse": "^10.0.2"
   },
   "devDependencies": {
     "@chansee97/eslint-config-vue": "^0.2.0",

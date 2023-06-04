@@ -1,7 +1,6 @@
 <script lang="ts" setup>
 import NavBar from './components/NavBar.vue'
 import Footer from './components/Footer.vue'
-
 import Social from './components/Social.vue'
 </script>
 

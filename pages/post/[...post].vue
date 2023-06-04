@@ -15,13 +15,13 @@ const path = post.join('/')
 
       <template #empty>
         <h1 class="text-center">
-          Document is empty😅
+          文档目前是空的😅
         </h1>
       </template>
 
       <template #not-found>
         <h1 class="text-center">
-          Not Found Any Document😗
+          404 - 没有找到与之相关的任何文章😗
         </h1>
       </template>
     </ContentDoc>

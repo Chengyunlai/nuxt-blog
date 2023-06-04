@@ -1,33 +1,33 @@
 export const siteConfig = {
-  author: 'Rock Chen',
-  title: 'Rock Chen - Blog',
-  description: 'My blog site.',
+  author: 'Chengyunlai',
+  title: 'Chengyunlai - Blog',
+  description: '程云来的博客',
   lang: 'zh-CN',
 }
 
 export const navLinks = [
   {
-    title: 'Blog',
+    title: '文章',
     path: '/post',
     icon: 'i-icon-park-outline-align-text-right-one',
   },
   {
-    title: 'Projects',
+    title: '项目',
     path: '/projects',
     icon: 'i-icon-park-outline-blocks-and-arrows',
   },
   {
-    title: 'Tags',
+    title: '分类',
     path: '/tags',
     icon: 'i-icon-park-outline-tag-one',
   },
   {
-    title: 'Search',
+    title: '搜索',
     path: '/search',
     icon: 'i-icon-park-outline-search',
   },
   {
-    title: 'About',
+    title: '关于我',
     path: '/',
     icon: 'i-icon-park-outline-grinning-face-with-open-mouth',
   },
@@ -37,22 +37,17 @@ export const navLinks = [
 export const socialLinks = [
   {
     title: '掘金',
-    path: 'https://juejin.cn/user/3826745248595550',
-    icon: 'i-icon-park-outline-crab',
+    path: 'https://juejin.cn/user/391873608037390',
+    icon: 'i-simple-icons-bytedance',
   },
   {
     title: 'Bilibili',
-    path: 'https://space.bilibili.com/3850132',
+    path: 'https://space.bilibili.com/8170045',
     icon: 'i-simple-icons-bilibili',
   },
   {
-    title: 'Twitter',
-    path: 'https://twitter.com/Rockchen97',
-    icon: 'i-simple-icons-twitter',
-  },
-  {
     title: 'Github',
-    path: 'https://github.com/chansee97',
+    path: 'https://github.com/Chengyunlai',
     icon: 'i-icon-park-outline-github',
   },
 ]

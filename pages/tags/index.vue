@@ -1,4 +1,7 @@
 <script setup lang="ts">
+useHead({
+  title: '文章标签'
+})
 const contentQuery = await queryContent().find()
 
 const tagsContent = contentQuery
