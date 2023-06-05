@@ -2,6 +2,7 @@
 import { siteConfig } from './site.config'
 
 export default defineNuxtConfig({
+  ssr: false,
   modules: [
     '@unocss/nuxt',
     '@vueuse/nuxt',
@@ -12,11 +13,7 @@ export default defineNuxtConfig({
   app: {
     rootId: 'nuxt-root',
     head: {
-<<<<<<< Updated upstream
-      title: '程云来的博客',
-=======
       title: "程云来的博客",
->>>>>>> Stashed changes
       meta: [
         { name: 'description', content: siteConfig.description },
         { name: 'author', content: siteConfig.author },
@@ -75,19 +72,10 @@ export default defineNuxtConfig({
     /* module options */
     lintOnStart: false,
   },
-<<<<<<< Updated upstream
   build: {
     analyze: true,
   },
   devServer: {
     port: 80,
-  },
-=======
-  build:{
-    analyze:true
-  },
-  devServer:{
-    port:80
   }
->>>>>>> Stashed changes
 })
