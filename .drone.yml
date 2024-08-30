@@ -1,0 +1,21 @@
+kind: pipeline
+name: default
+type: docker
+
+steps:
+  - name: build-stage
+    image: node:lts
+    commands:
+      - npm install -g pnpm
+      - pnpm install
+      - pnpm build
+      - rm -rf node_modules
+
+  - name: prod-stage
+    image: node:lts
+    depends_on:
+      - build-stage
+    commands:
+      - node .output/server/index.mjs
+    environment:
+      NODE_ENV: production
