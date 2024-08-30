@@ -1,28 +1,27 @@
-# 👋Hi，我叫Chengyunlai！
-> 这个博客我想分享一些 “面试的内容” 以及 “做项目时的思路”！😄
+# 👋云来的博客
+> 分享一些干货和有意思的内容！😄
 
 个人介绍：
-- 🙋‍♂️ 一名在校学生
+- 🙋‍♂️ 一名互联网从业者
 - 💻 热爱 前端 / 后端 开发
+- 🧑‍🎓 学历：研究生
 - 🌱 [掘金](https://juejin.cn/user/391873608037390)
-- 🌱 [CSDN](https://blog.csdn.net/qq_33806001?spm=1000.2115.3001.5343)
-- 🌱 [Github](https://github.com/Chengyunlai)
-- 🤔最近在学：Golang、并发、Netty
+- 🤔 想做的事情：赚钱
 - 联系方式：19550211498@163.com
 
+工作经验：
+- ️🪵 **[杭州百聆科技有限公司](https://www.byering.com/aboutUs)**（中台开发实习生；主要做业务逻辑、向量数据库搭建“Milvus”，开发“语音识别，语料聚类”等接口）
+- ️🔥 **[浙江远算科技有限公司](https://www.yuansuan.com/cn)**（软件开发 IC3；负责Web端仿真后处理的可视化及报告自动化工作，掌握小程序、后端、Web多端开发）
 
-## 格言
-
-大道至简，实干为要。 路虽远，行则将至；事虽难，做则必成。
-
+平时爱好：
+- ❤️ 自驾游，做饭
 ## 技能
 
 <div style="display:flex">
-  <img style="margin:0" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></img>
-  <img style="margin:0" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></img>
-  <img style="margin:0" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></img>
-  <img style="margin:0" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"></img>
-  <img style="margin:0" src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"></img>
-  <img style="margin:0" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></img>
-  <img style="margin:0" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></img>
+  <img style="margin:2px" src="https://img.shields.io/badge/Java-e1e2e2?style=for-the-badge&logo=openjdk&logoColor=black"></img>
+  <img style="margin:2px" src="https://img.shields.io/badge/React-e1e2e2?style=for-the-badge&logo=react"></img>
+  <img style="margin:2px" src="https://img.shields.io/badge/Vue-e1e2e2?style=for-the-badge&logo=vue.js"></img>
+  <img style="margin:2px" src="https://img.shields.io/badge/Spring-e1e2e2?style=for-the-badge&logo=spring"></img>
+  <img style="margin:2px" src="https://img.shields.io/badge/Linux-e1e2e2?style=for-the-badge&logo=linux&logoColor=black"></img>
+  <img style="margin:2px" src="https://img.shields.io/badge/applet-e1e2e2?style=for-the-badge&logo=wechat"></img>
 </div>
